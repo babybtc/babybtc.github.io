@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 这里是babybtc预售页面
 
 You can use the [editor on GitHub](https://github.com/babybtc/babybtc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
